@@ -16,5 +16,8 @@ This repository deploys a simple Azure infrastructure including:
 - **Virtual Machine (VM)**
 - **Storage Account** for persistent data
 - **Automation scripts** to start/stop VMs
+  
+## Identity & Security
+- Implemented RBAC, MFA, and Conditional Access using Microsoft Entra ID
 
 ## 📁 Repository Structure
